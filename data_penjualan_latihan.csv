@@ -1,0 +1,11 @@
+id_produk,nama_produk,kategori,harga,jumlah,rating,tanggal_transaksi,deskripsi
+1,Mouse,Elektronik,120000,2,5,2025-01-10,mouse nyaman digunakan
+2,Keyboard,Elektronik,250000,1,4,2025-01-15,keyboard mekanik bagus
+3,Buku Tulis,ATK,5000,10,3,2025-02-01,buku untuk sekolah
+4,Pulpen,ATK,,5,4,2025-02-05,pulpen tinta hitam
+5,Headset,Elektronik,300000,1,,2025-03-01,suara jernih dan nyaman
+6,Tas Sekolah,Fashion,150000,2,5,2025-03-10,
+7,Sepatu,Fashion,350000,1,4,2025-04-01,sepatu olahraga ringan
+8,Pensil,ATK,3000,20,3,2025-04-05,pensil untuk menggambar
+9,Power Bank,Elektronik,200000,,5,2025-05-01,pengisian cepat
+10,Kaos,Fashion,80000,3,4,2025-05-10,kaos bahan katun
